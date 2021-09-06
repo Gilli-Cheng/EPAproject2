@@ -15,3 +15,4 @@ NEI <- readRDS(file = "./data/summarySCC_PM25.rds")
 head(NEI)
 SCC <- readRDS("./data/Source_Classification_Code.rds")
 head(SCC)
+
